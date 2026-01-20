@@ -1,4 +1,4 @@
-module github.com/yourusername/urlx
+module github.com/alhamrizvi-cloud/urlx
 
 go 1.19
 

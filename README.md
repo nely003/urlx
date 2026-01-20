@@ -58,7 +58,7 @@ Built for **bug bounty hunters**, **pentesters**, and **security researchers** w
 ### ✅ Using `go install` (Recommended)
 
 ```bash
-go install github.com/alhamrizvi-cloud/urlx@latest
+GOPROXY=direct go install github.com/alhamrizvi-cloud/urlx@latest
 ```
 
 Make sure `$GOPATH/bin` is in your `$PATH`.

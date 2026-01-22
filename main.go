@@ -785,11 +785,12 @@ func (lp *LiveProbe) Probe(target string) *ProbeResult {
 	defer cancel()
 
 	ips, err := net.DefaultResolver.LookupHost(ctx, parsedURL.Hostname())
-	if err != nil {
-		result.Error = fmt.Sprintf("DNS: %v", err)
-		return result
-	}
-	result.DNSResolved = true
+if err != nil {
+    result.Error = fmt.Sprintf("DNS: %v", err)
+    return result
+}
+result.DNSResolved = true
+result.DNSIPs = ips  // store the IPs in the result
 
 	// TCP Port Probing
 	port := parsedURL.Port()

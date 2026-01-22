@@ -44,6 +44,7 @@ type ProbeResult struct {
 	ResponseTime   time.Duration
 	IsAlive        bool
 	DNSResolved    bool
+	DNSIPs         []string
 	TCPOpen        bool
 	TLSHandshake   bool
 	Error          string

